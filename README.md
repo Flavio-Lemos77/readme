@@ -207,6 +207,9 @@ Microsoft Ecosystem
 
 # 📊 GitHub Analytics
 
+<!--
+# 📊 GitHub Analytics
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flavio-Lemos77&show_icons=true&theme=tokyonight"/>
@@ -222,8 +225,7 @@ Microsoft Ecosystem
 <img src="https://streak-stats.demolab.com?user=Flavio-Lemos77&theme=tokyonight"/>
 
 </div>
-
----
+-->
 
 # 🏆 Certificações & Estudos
 
