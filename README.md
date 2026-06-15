@@ -219,7 +219,7 @@ Microsoft Ecosystem
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Flavio_Lemos77&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Flavio-Lemos77&theme=tokyonight"/>
 
 </div>
 
