@@ -9,8 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <!-- Adicione seus links reais abaixo se desejar -->
-  # <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  # <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  
 </div>
 
 ###
@@ -28,7 +27,7 @@
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
 <p align="left">
-Sou Coordenador de TI com mais de 16 anos de experiência em infraestrutura híbrida, DevOps, Cloud, redes, segurança e automações. Atuo liderando projetos de transformação digital com foco em otimização de processos, segurança da informação e redução de custos.
+Sou Profissional de TI com mais de 16 anos de experiência em infraestrutura híbrida, DevOps, Cloud, redes, segurança e automações. Atuo liderando projetos de transformação digital com foco em otimização de processos, segurança da informação e redução de custos.
 <br><br>
 - 🔭 Atualmente coordenando operações de TI com forte atuação em automações com PowerShell, APIs REST e integrações com Microsoft 365, SharePoint, Teams e Fluig<br>
 - ☁️ Experiência sólida em ambientes Azure, AWS, OCI e soluções híbridas (on-premises + cloud)<br>
